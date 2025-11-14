@@ -1,5 +1,8 @@
 # SurrealDB WASM worker + Vite **build-time** reproduction
 
+Related issue:
+  - https://github.com/surrealdb/surrealdb.js/issues/497
+
 [Vite's docs on web workers](https://vite.dev/guide/features.html#web-workers)
 
 This repo shows a build-time error when using `@surrealdb/wasm` (specifically `createWasmWorkerEngines`) in a Vite-based app.

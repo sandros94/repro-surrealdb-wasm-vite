@@ -1,5 +1,5 @@
 {
-  "name": "surrealdb-wasm-vite-repro",
+  "name": "repro-surrealdb-wasm-vite",
   "version": "0.0.1",
   "private": true,
   "scripts": {
